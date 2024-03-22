@@ -1,5 +1,9 @@
 # Challenge Title
 Challenge description
+category
+points
+no. of solves
+date
 
 ## Introduction
 text here
