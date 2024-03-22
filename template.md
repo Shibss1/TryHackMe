@@ -15,5 +15,7 @@ e.g Analysis, Vulnerability, Solution
 ## Miscellaneous
 Optional section
 
+## Learning Points
+
 ## Appendix
 e.g solve code 
