@@ -8,14 +8,20 @@ date
 ## Introduction
 text here
 
-## In between sections
-e.g Analysis, Vulnerability, Solution
+## Enumeration
+
+## Vulnerability
 *Make sure to show intermediary steps (how u arrived at XYZ)
+
+## Exploitation
+
+## Privilege Escalation
 
 ## Miscellaneous
 Optional section
 
-## Learning Points
-
 ## Appendix
 e.g solve code 
+
+## Learning Points
+For my own reference
